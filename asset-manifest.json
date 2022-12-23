@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/demodeloyment/static/css/main.073c9b0a.css",
+    "main.js": "/demodeloyment/static/js/main.f296c4ce.js",
+    "index.html": "/demodeloyment/index.html",
+    "main.073c9b0a.css.map": "/demodeloyment/static/css/main.073c9b0a.css.map",
+    "main.f296c4ce.js.map": "/demodeloyment/static/js/main.f296c4ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f296c4ce.js"
+  ]
+}
